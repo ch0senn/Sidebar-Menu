@@ -1,7 +1,7 @@
 # Sidebar-Menu
-Certainly! The provided code appears to be the foundation for a responsive sidebar project for a web application or dashboard. Here's a brief description:
 
-**Project Overview**
+
+## Project Overview
 **1. Purpose:**
    The project aims to create a responsive web dashboard with a sidebar navigation menu, catering to users, especially web developers, managing various aspects of their application or website.
 
