@@ -72,6 +72,31 @@ The provided responsive sidebar code exhibits several key features that contribu
 
 These features collectively contribute to creating a user-friendly, visually appealing, and functional responsive sidebar for web applications or dashboards.
 
+# Dependencies
+Yes, the provided code relies on several external dependencies and libraries. Here is a list of the dependencies along with their sources:
+
+1. **Phosphor Icons:**
+   - Source: [Phosphor Icons](https://phosphoricons.com/)
+   - Purpose: Provides the icons used in the sidebar for various menu items and actions.
+
+2. **Photon Icons:**
+   - Source: [Photon Icons](https://photonkit.com/icons/)
+   - Purpose: Offers additional icons for the project's visual elements.
+
+3. **Ionicons:**
+   - Source: [Ionicons](https://ionicons.com/)
+   - Purpose: Used for icons, and the Ionicons library is loaded dynamically using script tags.
+
+4. **Poppins Font:**
+   - Source: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
+   - Purpose: The Poppins font is imported for styling the text content in the project.
+
+5. **jQuery:**
+   - Source: [jQuery](https://jquery.com/)
+   - Purpose: The provided JavaScript code relies on jQuery for DOM manipulation and event handling.
+
+These dependencies are crucial for the proper functioning and styling of the responsive sidebar project. Ensure that users have internet access to fetch these resources, or they can download and host these libraries locally if needed. Include the necessary links or CDN references in the HTML file to ensure that the project can access these external resources.
+
 ## Contact Information
 
 If you have any questions or would like to collaborate, you can reach out to us through the following contact information:
